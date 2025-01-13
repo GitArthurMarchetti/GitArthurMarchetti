@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Arthur Marchetti and I'm a software developer, from Brazil - SC - Florianópolis</h2>
-
+<h2> <a href="https://portfolio-arthur-marchetti.vercel.app/">PORTFOLIO</a> </h2>
 ###
 
 <div align="center">
@@ -37,7 +37,6 @@
   <a href="https://linkedin.com/in/arthur-marchetti-9b4228249" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://portfolio-arthur-marchetti.vercel.app/">PORTFOLIO</a>
 </div>
 
 ###
