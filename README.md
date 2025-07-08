@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arthur Marchetti and I'm a software developer, from Brazil - SC - Florianópolis</h2>
+<h2 align="left">Hi 👋! My name is Arthur Marchetti and I'm a software developer, from Vancouver </h2>
 <h2> <a href="https://portfolio-arthur-marchetti.vercel.app/">PORTFOLIO</a> </h2>
 ###
 
